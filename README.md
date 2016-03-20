@@ -14,16 +14,16 @@
 # One-time donations
 
 - [Cash.me](https://cash.me/) - a service where you can create a personal payment page and accept money from anyone.
-- [Changetip](https://www.changetip.com/) - TODO
+- [Changetip](https://www.changetip.com/) - a platform to donate money to any person by mentioning the “ChangeTip” user in a message/tweet etc ...
 - [PayPal.me](https://www.paypal.me/) - a service by PayPal where you can get a personal link to the personal payment page. Using this link people can send you donations or fund your project.
 
 
 # Campaign-based funding
 
-- [GoFundMe](https://www.gofundme.com) - TODO
-- [JustGiving](https://www.justgiving.com) - TODO
+- [GoFundMe](https://www.gofundme.com) - a platform where you can create your own fundraising campaign for personal causes and life-events.
+- [JustGiving](https://www.justgiving.com) - a world’s social platform for giving.
 - [KickStarter](http://kickstarter.com) - TODO
-- [Pledgie](https://pledgie.com/) - a service where you can create a campaign for your project and accept donations.
+- [Pledgie](https://pledgie.com) - a service where you can create a campaign for your project and accept donations.
 
 # Recurring donations and funding
 
