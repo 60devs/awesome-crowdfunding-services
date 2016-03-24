@@ -34,8 +34,8 @@
 
 # Per-feature funding
 
-- [BountySource](https://www.bountysource.com/) - TODO
-- [GitFund](http://www.gitfund.org/) - TODO
+- [BountySource](https://www.bountysource.com/) - register your project and allow users to add money rewards to issues and features. You get the reward if the issue is resolved or the feature is implemented.
+- [GitFund](http://www.gitfund.org/) - helps prioritize issues using donations. Issues that are getting more donations should be solved first and the project author receives the donation.
 
 ## License
 
