@@ -30,7 +30,7 @@
 - [Gratipay](https://gratipay.com/) - Register your project at Gratipay, add the badge to your project and people will be able to support your project regularly.
 - [Patreon](https://www.patreon.com/) - set up "creator account", describe what you'are doing and start receiving monthly donations from patrons.
 - [Salt](https://salt.bountysource.com/) - Add your project and raise funding to add more development time to the project.
-- [Supporter](https://supporter.60devs.com) - Add one or more projects and use project and personal payment pages to accept donations. Configurable project and personal badges.
+- [Supporter](https://supporterhq.com) - Add one or more projects and use project and personal payment pages to accept donations. Configurable project and personal badges.
 
 # Per-feature funding
 
