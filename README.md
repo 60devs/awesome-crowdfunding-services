@@ -14,7 +14,7 @@
 # One-time Donations
 
 - [Cash.me](https://cash.me/) &ndash; A service where you can create a personal payment page and accept money from anyone.
-- [Changetip](https://www.changetip.com/) &ndash; A platform to donate money to any person by mentioning the “ChangeTip” user in a message/tweet/Github issue etc.
+- [DISCOUTINUED][Changetip](https://www.changetip.com/) &ndash; A platform to donate money to any person by mentioning the “ChangeTip” user in a message/tweet/Github issue etc.
 - [PayPal.me](https://www.paypal.me/) &ndash; A service by PayPal where you can get a personal link to the personal payment page. Using this link people can send you donations or fund your project.
 
 
@@ -27,10 +27,10 @@
 # Recurring Donations and Funding
 
 - [Flattr](https://flattr.com/) &ndash; Add a Flattr button to your project or website and people will "flattr" your work if they like it. You will get a share of their budget for you project.
-- [Gratipay](https://gratipay.com/) &ndash; Register your project at Gratipay, add the badge to your project and people will be able to support your project regularly.
+- [DISCOUTINUED][Gratipay](https://gratipay.com/) &ndash; Register your project at Gratipay, add the badge to your project and people will be able to support your project regularly.
 - [Patreon](https://www.patreon.com/) &ndash; Set up "creator account", describe what you'are doing and start receiving monthly donations from patrons.
 - [Salt](https://salt.bountysource.com/) &ndash; Add your project and raise funding to add more development time to the project.
-- [Supporter](https://supporterhq.com) &ndash; Add one or more projects and use project and personal payment pages to accept donations. Configurable project and personal badges.
+- [DISCOUTINUED][Supporter](https://supporterhq.com) &ndash; Add one or more projects and use project and personal payment pages to accept donations. Configurable project and personal badges.
 
 # Per-feature Donations
 
