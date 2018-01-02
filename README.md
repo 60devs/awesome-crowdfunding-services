@@ -27,6 +27,7 @@
 # Recurring Donations and Funding
 
 - [Flattr](https://flattr.com/) &ndash; Add a Flattr button to your project or website and people will "flattr" your work if they like it. You will get a share of their budget for you project.
+- [GitFund](https://gitfund.io/) &ndash; Helps to fund open source projects by allowing sponsors to donate money to open source projects they depend on. 
 - [DISCOUTINUED] [Gratipay](https://gratipay.com/) &ndash; Register your project at Gratipay, add the badge to your project and people will be able to support your project regularly.
 - [Patreon](https://www.patreon.com/) &ndash; Set up "creator account", describe what you'are doing and start receiving monthly donations from patrons.
 - [Salt](https://salt.bountysource.com/) &ndash; Add your project and raise funding to add more development time to the project.
@@ -35,7 +36,6 @@
 # Per-feature Donations
 
 - [BountySource](https://www.bountysource.com/) &ndash; Register your project and allow users to add money rewards to issues and features. You get the reward if the issue is resolved or the feature is implemented.
-- [GitFund](http://www.gitfund.org/) &ndash; Helps prioritize issues using donations. Issues that are getting more donations should be solved first and the project author receives the donation.
 
 ## License
 
