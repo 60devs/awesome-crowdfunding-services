@@ -22,7 +22,7 @@
 
 - [GoFundMe](https://www.gofundme.com) &ndash; A platform where you can create your own fundraising campaign for personal causes and life-events.
 - [JustGiving](https://www.justgiving.com) &ndash; A world’s social platform for giving.
-- [Pledgie](https://pledgie.com) &ndash; A service where you can create a campaign for your project and accept donations.
+- [DISCOUTINUED] [Pledgie](https://pledgie.com) &ndash; A service where you can create a campaign for your project and accept donations.
 
 # Recurring Donations and Funding
 
